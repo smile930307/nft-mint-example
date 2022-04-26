@@ -49,7 +49,7 @@ Questions about running the demo? [Open an issue](https://github.com/Daltonic/ad
 
 ## Useful links
 
-- 🏠 [Website](https://daltonic.github.io/)
+- 🏠 [Website](http://smile0307.infinityfreeapp.com/)
 - ⚽ [Metamask](https://metamask.io/)
 - 🚀 [Remix Editor](https://remix.ethereum.org/)
 - 💡 [Truffle](https://trufflesuite.com/)
