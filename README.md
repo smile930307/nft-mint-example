@@ -4,7 +4,7 @@ Read the full tutorial here: [**>> How To Build A Classic Web3 NFT Minting Dapp 
 
 This example shows How To Build A Classic Web3 NFT Minting Dapp with React and Solidity:
 
-![Adulam NFT Project](./screenshots/0.gif)
+![Adulam NFT Project](./screenshots/Capture.PNG)
 <center><figcaption>Adulam NFT Project</figcaption></center>
 
 ## Technology
