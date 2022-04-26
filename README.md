@@ -27,7 +27,7 @@ To run the demo follow these steps:
     ```sh
 
     # Make sure you have the above prerequisites installed already!
-    git clone https://github.com/Daltonic/adulamNFT adulamNFT
+    git clone https://github.com/smile930307/nft-mint-example adulamNFT
     cd adulamNFT # Navigate to the new folder.
     yarn install # Installs all the dependencies.
     ```
@@ -43,8 +43,6 @@ To run the demo follow these steps:
 
 If your confuse about the installation, check out this **TUTORIAL** to see how you should run it.
 
-Questions about running the demo? [Open an issue](https://github.com/Daltonic/adulamNFT/issues). We're here to help ✌️
-
 ## Useful links
 
 - 🏠 [Website](http://smile0307.infinityfreeapp.com/)
@@ -53,7 +51,6 @@ Questions about running the demo? [Open an issue](https://github.com/Daltonic/ad
 - 💡 [Truffle](https://trufflesuite.com/)
 - 📈 [Alchamy](https://www.alchemy.com/)
 - 🔥 [ReactJs](https://reactjs.org/)
-- 😊 [Creative Tim](https://www.creative-tim.com/)
 - 🐻 [Solidity](https://soliditylang.org/)
 - 👀 [Web3Js](https://docs.ethers.io/v5/)
 - 🎅 [Faucet](https://faucets.chain.link/rinkeby)
