@@ -45,7 +45,7 @@ If your confuse about the installation, check out this **TUTORIAL** to see how y
 
 ## Useful links
 
-- 🏠 [Website](http://smile0307.infinityfreeapp.com/)
+- 🏠 [Website](https://smile0307personalsite.netlify.app/)
 - ⚽ [Metamask](https://metamask.io/)
 - 🚀 [Remix Editor](https://remix.ethereum.org/)
 - 💡 [Truffle](https://trufflesuite.com/)
