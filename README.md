@@ -27,8 +27,8 @@ To run the demo follow these steps:
     ```sh
 
     # Make sure you have the above prerequisites installed already!
-    git clone https://github.com/smile930307/nft-mint-example adulamNFT
-    cd adulamNFT # Navigate to the new folder.
+    git clone https://github.com/smile930307/nft-mint-example mint_dapp
+    cd mint_dapp # Navigate to the new folder.
     yarn install # Installs all the dependencies.
     ```
 2. Create an Alchemy project, copy and paste your key in the spaces below.
